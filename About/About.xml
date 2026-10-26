@@ -4,16 +4,20 @@
   <packageId>Canon.CrownsandRegalia</packageId>
   <author>Canon</author>
   <supportedVersions>
-    <li>1.3</li>
-	<li>1.4</li>
+    <li>1.5</li>
+    <li>1.6</li>
+	  <li>1.7</li>
   </supportedVersions>
   <modDependencies />
-  <loadAfter />
+  <loadAfter>
+    <li>Ludeon.Rimworld.Royalty</li>
+    <li>Ludeon.Rimworld.Ideology</li>
+  </loadAfter>
   <description>
   Adds 3 Crowns to the game, fit for an Emperor of your Colony
   great for your medieval or Royalty playthrough
 
-  (NEW) They now are able to be spawned as Relics, I've also adjusted a few stats
+  They are able to be spawned as Relics, I've also adjusted a few stats
 
   They require the the Royal Clothing Research if you have Royalty and Smithing if you don't
 
